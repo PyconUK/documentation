@@ -14,6 +14,11 @@ Interested in volunteering? You'll hopefully find this useful, but shouldn't _ne
 Just looking to attend the conference? You probably want the public site!
 
 
+## Viewing
+
+https://pyconuk-2016-internaldocs.readthedocs.org/en/latest/
+
+
 ## Building
 
 ```
