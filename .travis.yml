@@ -1,0 +1,11 @@
+language: python
+sudo: false
+
+install:
+    - travis_retry pip install tox
+
+script:
+    - tox -e build
+
+matrix:
+    fast_finish: true
