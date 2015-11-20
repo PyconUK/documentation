@@ -7,6 +7,7 @@ Contents:
    :maxdepth: 2
 
    dates
+   wash-up-meeting-report
 
 
 Indices and tables

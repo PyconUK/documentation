@@ -15,3 +15,5 @@ Important dates for your diaries!
 ----
 
 * Saturday 14th November - Wash-up Meeting in Cardiff
+
+  - :doc:`wash-up-meeting-report`
