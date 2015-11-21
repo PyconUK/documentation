@@ -32,9 +32,8 @@ Kristian then gave a short presentation about user stories.  A user story is a
 way of capturing what a user needs in order to achieve a goal, and takes the
 general form "As $role I want $desire so that $benefit".  There are several
 technical examples on `Wikipedia
-<https://en.wikipedia.org/wiki/City_Hall,_Cardiff>`_, and Kristian has written
-more about this on `his blog
-<http://blog.doismellburning.co.uk/user-stories/>`_.
+<https://en.wikipedia.org/wiki/User_story>`_, and Kristian has written more
+about this on `his blog <http://blog.doismellburning.co.uk/user-stories/>`_.
 
 The reason I wanted us to talk about user stories is that I'm not aware of us
 ever really having discussed the questions "what is PyCon UK for?" and "what do
