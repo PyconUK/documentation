@@ -1,6 +1,8 @@
 PyCon UK 2016 Internaldocs
 ==========================
 
+**PROPOSED DATES**: 15th-18th September 2016
+
 Contents:
 
 .. toctree::
