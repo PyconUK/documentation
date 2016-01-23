@@ -10,6 +10,7 @@ Contents:
 
    dates
    wash-up-meeting-report
+   publicity
 
 
 Indices and tables
