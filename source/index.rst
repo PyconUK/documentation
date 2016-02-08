@@ -9,6 +9,7 @@ Contents:
    :maxdepth: 2
 
    dates
+   2015-in-numbers
    wash-up-meeting-report
    publicity
 
