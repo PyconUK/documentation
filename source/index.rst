@@ -12,6 +12,7 @@ Contents:
    2015-in-numbers
    wash-up-meeting-report
    publicity
+   design-spec
 
 
 Indices and tables
