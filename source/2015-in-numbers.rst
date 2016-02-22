@@ -1,6 +1,9 @@
 2015 in numbers
 ===============
 
+Tickets sold
+------------
+
 Here is a breakdown of the number of tickets sold for main conference:
 
 +-----------------+-----+--------+
@@ -53,3 +56,15 @@ Additionally, here are the other tickets:
 +-----------------+-----+--------+
 
 This data came from ti.to.
+
+
+Sponsorship
+-----------
+
+Here's a breakdown of the sponsorship received:
+
+ * 1 × £10,000
+ * 4 × £5,000
+ * 2 × £2,500
+ * 8 × £1,000
+ * 1 × £500
