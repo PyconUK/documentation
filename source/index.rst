@@ -12,6 +12,7 @@ PyCon UK 2016 Internaldocs
    publicity
    design-spec
    financial-aid
+   emails-to-community/index
 
 
 Indices and tables
