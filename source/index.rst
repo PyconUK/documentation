@@ -13,6 +13,7 @@ Contents:
    wash-up-meeting-report
    publicity
    design-spec
+   financial-aid
 
 
 Indices and tables
