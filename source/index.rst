@@ -14,6 +14,7 @@ Contents:
    publicity
    design-spec
    financial-aid
+   emails-to-community/index
 
 
 Indices and tables
