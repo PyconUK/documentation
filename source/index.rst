@@ -11,6 +11,7 @@ PyCon UK 2016 Internaldocs
    wash-up-meeting-report
    publicity
    design-spec
+   programme-talks
    financial-aid
    emails-to-community/index
 

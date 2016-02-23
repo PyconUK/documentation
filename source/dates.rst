@@ -1,19 +1,36 @@
 Dates
 =====
 
-Important dates for your diaries!
+* 2016
 
+  * September
+    * 16-19 - Conference
 
-2016
-----
+  * July
 
-* Saturday 13th August - Planned Committee meeting
-* Saturday 23rd April - Planned Committee meeting
+    * 12 - Schedule announced
 
+  * June
 
-2015
-----
+    * 14 - General programme announced
 
-* Saturday 14th November - Wash-up Meeting in Cardiff
+  * May
 
-  - :doc:`wash-up-meeting-report`
+    * 10 - Call for proposals closes
+
+  * April
+
+    * 12 - Ticket sales & CFP open for everyone
+
+  * March
+
+    * 15
+
+      * Ticket sales & CFP open for under-represented groups
+      * financial assistance applications open
+
+* 2015
+
+  * November
+
+    * 14 - :doc:`Wash-up Meeting in Cardiff <wash-up-meeting-report>`
