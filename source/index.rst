@@ -13,6 +13,7 @@ PyCon UK 2016 Internaldocs
    design-spec
    financial-aid
    emails-to-community/index
+   feedback-2015
 
 
 Indices and tables
