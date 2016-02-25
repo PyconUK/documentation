@@ -55,6 +55,6 @@ Feedback From PyCon 2015
 9. Good drinks (6.8%)
     - The drinks being provided (including beer) were appreciated.
 10. Community (6.8%)
-    - The entire community throughout the conference was loved. People felt included despite different knowledge levels of coding.
+     - The entire community throughout the conference was loved. People felt included despite different knowledge levels of coding.
 
 
