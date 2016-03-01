@@ -68,8 +68,61 @@ It may be sensible to say that anyone who applies for financial aid, regardless 
 Process
 -------
 
+Data Collection
+~~~~~~~~~~~~~~~
+
 I will be coordinating with George to formalise the data collection required for financial aid. In particular, we’ll want to set up some forms that ask the questions we believe need to be asked.
+
+Proposed Questions
+^^^^^^^^^^^^^^^^^^
+
+The proposed questions are below, including the type of answer that can be provided, as will the purpose of the question.
+
++----------------------------+----------------+---------------------------------------------+
+| Question                   | Answer Type    | Purpose                                     |
++============================+================+=============================================+
+| Legal Name                 | Free text      | For legal reasons, this is data we need.    |
++----------------------------+----------------+---------------------------------------------+
+| Preferred Name             | Free text      | For use when communicating with applicants. |
++----------------------------+----------------+---------------------------------------------+
+| Contact email address      | Email          | For use when communicating with applicants. |
++----------------------------+----------------+---------------------------------------------+
+| Requested Grant (in GBP)   | Currency       | Will filter into grant process.             |
++----------------------------+----------------+---------------------------------------------+
+| Need reserved ticket?      | Boolean        | If attendence is contingent on having a     |
+|                            |                | ticket but the delegate cannot afford one   |
+|                            |                | without aid, we may need to 'reserve' a     |
+|                            |                | ticket until the grant is processed.        |
++----------------------------+----------------+---------------------------------------------+
+| Applied to speak?          | Boolean/Number | If they have applied to speak, we'd like to |
+|                            |                | know in order to support them. We should    |
+|                            |                | aim to have a 'proposal ID' the delegate    |
+|                            |                | can provide in this field, as well.         |
++----------------------------+----------------+---------------------------------------------+
+| Planned attendance days.   | Date           | If an attendee is planning to attend only   |
+|                            |                | part of the conference, that's useful to    |
+|                            |                | know.                                       |
++----------------------------+----------------+---------------------------------------------+
+| Planned attendance tracks  | Date           | Useful for identifying teachers etc.        |
++----------------------------+----------------+---------------------------------------------+
+| Preferred Payment Method   | Selector       | We need to decide how we're open to paying  |
+|                            |                | grants, and allow delegates to select their |
+|                            |                | preference. This may imply further          |
+|                            |                | up questions.                               |
++----------------------------+----------------+---------------------------------------------+
+
+Committee
+~~~~~~~~~~
 
 The process of awarding grants will want to be done by a committee. The job of the committee members will be to review grant proposals and to allocate those proposals a ‘score’ that reflects how important their receiving a grant is believed to be. This score will then be modified by a few fixed properties (are they applying to speak etc.), and will then be fed into the grant application algorithm.
 
 If you’d like to be considered to be on this committee, please let me know. I won’t be choosing this committee yet, certainly not before we’ve finalised the process and begun advertising the grants, but I’d like to prepare a list of people who are interested as early as possible.
+
+The committee will be chosen by the beginning of the call for proposals (see :doc:`dates`).
+
+Key Dates
+~~~~~~~~~
+
+The financial aid proposal website will be open from the beginning of the Call For Proposals, and will remain open until the close of ticket sales (see :doc:`dates`). However, to avoid congestion and a heavy workload at the end of the process, there will be several "early rounds" of grant allocation. The goal here will be to encourage people to apply as early as possible.
+
+These dates will be allocated once the dates for CfP and similar have been decided.
