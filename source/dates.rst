@@ -9,7 +9,6 @@ Dates
 
 * 2016
 
-
   * March
 
     * 15
