@@ -81,8 +81,6 @@ The proposed questions are below, including the type of answer that can be provi
 +----------------------------+----------------+---------------------------------------------+
 | Question                   | Answer Type    | Purpose                                     |
 +============================+================+=============================================+
-| Legal Name                 | Free text      | For legal reasons, this is data we need.    |
-+----------------------------+----------------+---------------------------------------------+
 | Preferred Name             | Free text      | For use when communicating with applicants. |
 +----------------------------+----------------+---------------------------------------------+
 | Contact email address      | Email          | For use when communicating with applicants. |
@@ -99,7 +97,7 @@ The proposed questions are below, including the type of answer that can be provi
 |                            |                | aim to have a 'proposal ID' the delegate    |
 |                            |                | can provide in this field, as well.         |
 +----------------------------+----------------+---------------------------------------------+
-| Planned attendance days.   | Date           | If an attendee is planning to attend only   |
+| Planned attendance days    | Date           | If an attendee is planning to attend only   |
 |                            |                | part of the conference, that's useful to    |
 |                            |                | know.                                       |
 +----------------------------+----------------+---------------------------------------------+
