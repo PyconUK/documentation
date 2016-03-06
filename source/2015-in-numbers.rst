@@ -55,6 +55,11 @@ Additionally, here are the other tickets:
 | Sprint Only     | 1   | £31.42 |
 +-----------------+-----+--------+
 
+
+
+.. image:: _static/ticket_sales_2015.png
+	   :width: 100%
+
 This data came from ti.to.
 
 
