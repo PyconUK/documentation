@@ -1,19 +1,33 @@
 Dates
 =====
 
-Important dates for your diaries!
+* 2015
 
+  * November
 
-2016
-----
+    * 14 - :doc:`Wash-up Meeting in Cardiff <wash-up-meeting-report>`
 
-* Saturday 13th August - Planned Committee meeting
-* Saturday 23rd April - Planned Committee meeting
+* 2016
 
+  * March
 
-2015
-----
+    * 15
 
-* Saturday 14th November - Wash-up Meeting in Cardiff
+      * Ticket sales & CFP open
+      * financial assistance applications open
 
-  - :doc:`wash-up-meeting-report`
+  * May
+
+    * 10 - Call for proposals closes
+
+  * June
+
+    * 14 - General programme announced
+
+  * July
+
+    * 12 - Schedule announced
+
+  * September
+
+    * 16-19 - Conference
