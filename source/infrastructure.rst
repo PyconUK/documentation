@@ -1,0 +1,75 @@
+Infrastructure
+==============
+
+The PyCon UK infrastructure is comprised of the following services:
+
+**Website**
+
+* GitHub for code
+* GitHub for hosting
+* Travis-CI for code testing
+* DNS ?
+* Domain (123-reg)
+
+
+**Ticketing**
+
+* ti.to
+
+
+**Organisation**
+
+* GitHub for Issues
+* GitHub for docs code
+* RTD for docs hosting
+
+
+**SMS App**
+
+* GitHub for code
+* Twilio for SMS delivery
+
+**Voting App**
+
+* Heroku for hosting
+* GitHub for code
+* Opbeat for Error tracking
+
+
+This boils down to the following Vendors:
+
+* 123-reg
+* GitHub
+* Heroku
+* Opbeat
+* ReadTheDocs
+* Travis-CI
+* Twilio
+
+
+Pricing
+-------
+
+Ti.to
+`````
+Based on their `pricing page <https://ti.to/pricing>`_ and using the dummy values of 300 tickets at £200p/ticket (note: not actual values) we would be looking at paying between £3176.46 and £3600.
+
+GitHub
+``````
+Free. We should have no need for private repositories as things currently stand.
+
+Travis-CI
+`````````
+Free. We currently have no private repositories and can stay on the community offering.
+
+ReadTheDocs
+```````````
+Free. We're currently using their free offering which I don't expect to change.
+
+Heroku & Opbeat
+```````````````
+We have yet to discuss whether the Voting app will be needed this year but it's currently running on free versions of both Heroku & Opbeat.
+
+123-reg & Twilio
+````````````````
+Waiting on information.
