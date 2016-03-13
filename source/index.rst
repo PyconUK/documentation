@@ -12,6 +12,7 @@ PyCon UK 2016 Internaldocs
    publicity
    design-spec
    speaker-diversity
+   infrastructure
    financial-aid
    emails-to-community/index
    feedback-2015
