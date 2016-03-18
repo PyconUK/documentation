@@ -7,6 +7,7 @@ PyCon UK 2016 Internaldocs
    :maxdepth: 2
 
    dates
+   venue
    2015-in-numbers
    wash-up-meeting-report
    publicity
