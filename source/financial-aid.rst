@@ -87,10 +87,11 @@ The proposed questions are below, including the type of answer that can be provi
 +----------------------------+----------------+---------------------------------------------+
 | Requested Grant (in GBP)   | Currency       | Will filter into grant process.             |
 +----------------------------+----------------+---------------------------------------------+
-| Need reserved ticket?      | Boolean        | If attendence is contingent on having a     |
-|                            |                | ticket but the delegate cannot afford one   |
-|                            |                | without aid, we may need to 'reserve' a     |
-|                            |                | ticket until the grant is processed.        |
+| Have you already           | Boolean        | If attendence is contingent on having a     |
+| registered for a ticket,   |                | ticket but the delegate cannot afford one   |
+| or would you like one set  |                | without aid, we may need to 'reserve' a     |
+| aside for you until your   |                | ticket until the grant is processed.        |
+| grant is allocated?        |                |                                             |
 +----------------------------+----------------+---------------------------------------------+
 | Applied to speak?          | Boolean/Number | If they have applied to speak, we'd like to |
 |                            |                | know in order to support them. We should    |
