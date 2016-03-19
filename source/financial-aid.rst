@@ -71,7 +71,9 @@ Process
 Data Collection
 ~~~~~~~~~~~~~~~
 
-I will be coordinating with George to formalise the data collection required for financial aid. In particular, we’ll want to set up some forms that ask the questions we believe need to be asked.
+For data collection, we plan to use ``ti.to`` alongside the rest of our ticketing function. This helps keep our systems fairly simple, while providing a good centralised location to collect all data about financial aid applicants.
+
+Additionally, thanks to the use of ``ti.to`` we can ensure that only administrators can access the personal data of the grant applicants.
 
 Proposed Questions
 ^^^^^^^^^^^^^^^^^^
@@ -87,10 +89,11 @@ The proposed questions are below, including the type of answer that can be provi
 +----------------------------+----------------+---------------------------------------------+
 | Requested Grant (in GBP)   | Currency       | Will filter into grant process.             |
 +----------------------------+----------------+---------------------------------------------+
-| Need reserved ticket?      | Boolean        | If attendence is contingent on having a     |
-|                            |                | ticket but the delegate cannot afford one   |
-|                            |                | without aid, we may need to 'reserve' a     |
-|                            |                | ticket until the grant is processed.        |
+| Have you already           | Boolean        | If attendence is contingent on having a     |
+| registered for a ticket,   |                | ticket but the delegate cannot afford one   |
+| or would you like one set  |                | without aid, we may need to 'reserve' a     |
+| aside for you until your   |                | ticket until the grant is processed.        |
+| grant is allocated?        |                |                                             |
 +----------------------------+----------------+---------------------------------------------+
 | Applied to speak?          | Boolean/Number | If they have applied to speak, we'd like to |
 |                            |                | know in order to support them. We should    |
