@@ -71,7 +71,9 @@ Process
 Data Collection
 ~~~~~~~~~~~~~~~
 
-I will be coordinating with George to formalise the data collection required for financial aid. In particular, we’ll want to set up some forms that ask the questions we believe need to be asked.
+For data collection, we plan to use ``ti.to`` alongside the rest of our ticketing function. This helps keep our systems fairly simple, while providing a good centralised location to collect all data about financial aid applicants.
+
+Additionally, thanks to the use of ``ti.to`` we can ensure that only administrators can access the personal data of the grant applicants.
 
 Proposed Questions
 ^^^^^^^^^^^^^^^^^^
