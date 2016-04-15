@@ -2,8 +2,9 @@ Tickets
 =======
 
 We are selling tickets at two prices: £96 for people who are paying for their
-own tickets, and £144 for people whose company is paying.  These prices include
-VAT.  We need to decide on names for these tickets.
+own tickets (individual tickets), and £144 for people whose company is paying
+(company tickets).  Additionally, we are selling one-day tickets at £36.  These
+prices include VAT.
 
 We will ask the following questions on the registration form:
 
