@@ -8,8 +8,8 @@ The PyCon UK infrastructure is comprised of the following services:
 * GitHub for code
 * GitHub for hosting
 * Travis-CI for code testing
-* DNS ?
-* Domain (123-reg)
+* DNSimple for DNS
+* 123 is the ``pyconuk.org`` domain registrar
 
 
 **Ticketing**
@@ -73,3 +73,21 @@ We have yet to discuss whether the Voting app will be needed this year but it's 
 123-reg & Twilio
 ````````````````
 Waiting on information.
+
+DNSimple
+````````
+$50 per year for a single user account, limited to 5 domains. We should only need the one domain.
+
+
+DNS
+---
+Each year's website has a subdomain under ``pyconuk.org`` (eg 2016.pyconuk.org) with a matching repo in `our GitHub organisation <https://github.com/pyconuk>`_.
+
+DNSimple is configured with a CNAME for each year hosted on GitHub Pages (2015 onwards). URL records have been set up to redirect ``pyconuk.org`` and ``www.pyconuk.org`` to the appropriate year subdomain.
+
+Years prior to 2015 have A records pointing them to a server kindly hosted by Zeth.
+
+
+Passwords
+---------
+Account passwords are currently in a 1Password vault that only George has access to. This needs to be improved.
