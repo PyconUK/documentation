@@ -1,7 +1,7 @@
 PyCon UK 2016 Internaldocs
 ==========================
 
-**DATES**: 16th-19th September 2016
+**DATES**: 15th-19th September 2016
 
 .. toctree::
    :maxdepth: 2
