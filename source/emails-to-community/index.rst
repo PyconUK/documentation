@@ -8,3 +8,4 @@ before you hope anybody has noticed it!
 .. toctree::
 
   2016-03-04-save-the-date
+  2016-04-26-launching-the-conference
