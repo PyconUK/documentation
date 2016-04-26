@@ -97,6 +97,4 @@ Website Deployment
 ------------------
 The website can be built and deployed locally by running ``make deploy``. However this is not ideal when using a Pull Request workflow since it requires someone to have a working environment and thus TravisCI has been set up to deploy changes made to master.
 
-The ``deploy.sh`` script deals with checking whether it's a person or Travis deploying the site. A person requires no additional authentication (GitHub already knows who you are). Travis requires setting the ``GH_TOKEN`` in the build env. To do this create a `Personal Access Token on GitHub <https://github.com/settings/tokens>`_ then create the ``GH_TOKEN`` key pair on the `Travis settings page <https://travis-ci.org/PyconUK/2016.pyconuk.org/settings>`_.
-
-Note: This is tied to a single user on GitHub, however any other GitHub user with valid permissions can replace the key on Travis.
+For more details on this see `the website readme <https://github.com/PyconUK/2016.pyconuk.org#deployment>`_.
