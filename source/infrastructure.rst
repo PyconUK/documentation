@@ -91,3 +91,10 @@ Years prior to 2015 have A records pointing them to a server kindly hosted by Ze
 Passwords
 ---------
 Account passwords are currently in a 1Password vault that only George has access to. This needs to be improved.
+
+
+Website Deployment
+------------------
+The website can be built and deployed locally by running ``make deploy``. However this is not ideal when using a Pull Request workflow since it requires someone to have a working environment and thus TravisCI has been set up to deploy changes made to master.
+
+For more details on this see `the website readme <https://github.com/PyconUK/2016.pyconuk.org#deployment>`_.
