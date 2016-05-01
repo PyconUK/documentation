@@ -23,3 +23,23 @@ about the following, but make responses optional:
 * Ethnicity
 * Country of residence
 * Age
+
+
+Tito
+====
+
+We're selling tickets through `Tito <http://ti.to>`_.
+
+The tickets page is `here <https://ti.to/pyconuk/2016>`_.
+
+Refunding tickets
+-----------------
+
+We will offer a full refund on tickets until 1st September, and a 50% refund thereafter.
+
+To refund a ticket from the `Tito admin interface <https://ti.to/pyconuk/2016/admin/>`_:
+
+* Click "Orders", search for the ticket-holder's name
+* Click "Cancel this order"
+* Click "Yes" when asked if you're sure
+* Click "Refund via Stripe"
