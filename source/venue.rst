@@ -11,4 +11,6 @@ We have access to the following rooms:
 * Ferrier Hall
 * Syndicate Rooms A, B, C, D, G, H
 
-.. _`Cardiff City Hall`: http://www.cardiffcityhall.com/
+`See here <http://www.cardiffcityhall.com/rooms-at-a-glance.pdf>`_ for more about the capacities of each room.
+
+We have provisionally allocated Syndicate Rooms C and D for the teachers' day on Friday, and the childrens' day on Saturday.
