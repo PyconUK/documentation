@@ -10,6 +10,7 @@ PyCon UK 2016 Internaldocs
    venue
    tickets
    schedule
+   sponsorship
    2015-in-numbers
    wash-up-meeting-report
    publicity
