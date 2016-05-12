@@ -8,3 +8,4 @@ schedule:
 - Teachers' day (all day Friday)
 - Children's day (all day Saturday)
 - A welcome session for first-time attendees (Friday morning)
+- The PyCon UK Society's AGM
