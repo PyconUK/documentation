@@ -22,6 +22,7 @@ PyCon UK 2016 Internaldocs
    tweetstorms/index
    feedback-2015
    company
+   guidance-for-speakers
 
 
 Indices and tables
