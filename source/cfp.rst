@@ -1,9 +1,9 @@
 Call For Proposals
 ==================
 
-We are planning to use Google Forms for handling CFP proposals.
+We are using a Google Forms form for handling CFP proposals.
 
-Daniele has set up a form with the following questions:
+The form has the following questions:
 
 About you
 ---------
@@ -23,6 +23,13 @@ More information about you (private)
   private.
 I'm happy to be recorded and/or broadcast on the Internet
   yes/no
+Would you like advice from a speaker mentor?
+  See http://2016.pyconuk.org/speaker-mentors/ for more details
+  yes/no
+
+About your proposal
+-------------------
+
 Title
   --
 What are you proposing?  (One of)
@@ -30,6 +37,7 @@ What are you proposing?  (One of)
   * A workshow or tutorial
   * A code clinic
   * Poster
+  * A sprint (or other collaborative coding activity)
   * Something completely different
 Abstract (public)
   Describe what you'll be talking about or doing.
@@ -44,6 +52,10 @@ What level of audience technical experience are you aiming at?  (Any of)
   * Highly experienced
   * Not applicable
   * Other
+Is your proposal particularly suitable for Code4Research?
+  yes/no
+Is your proposal particularly suitable for the teachers' day?
+  yes/no
 
 
 Talk proposal
@@ -83,9 +95,18 @@ Timing
   How long would you like to run your clinic? Is it one that you'd like to do
   more than once if appropriate?
 Maximum number of people you can manage
- --
+  --
 Would you like helpers?
   How many do you need, and what skills will they require?
+
+
+A sprint
+--------
+
+(or a similar collaborative coding event)
+
+What will you be sprinting/hacking/working on?
+  --
 
 
 Something completely different
