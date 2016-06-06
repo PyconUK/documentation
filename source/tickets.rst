@@ -43,3 +43,22 @@ To refund a ticket from the `Tito admin interface <https://ti.to/pyconuk/2016/ad
 * Click "Cancel this order"
 * Click "Yes" when asked if you're sure
 * Click "Refund via Stripe"
+
+Upgrading tickets
+-----------------
+
+We allow people to upgrade their tickets through their purchase of a `Ticket Upgrade <http://2016.pyconuk.org/tickets/upgrading/>`_ ticket.
+
+To process a Ticket Upgrade via the `Tito admin interface <https://ti.to/pyconuk/2016/admin/>`_, you find the original ticket, update its type, and then void the Ticket Upgrade.  In detail:
+
+* Click "Attendees"
+* Find the relevant Ticket Upgrade ticket
+  * Tickets can be filtered by type if required
+  * This should have the number of the original ticket that needs to be upgraded
+* Find the original ticket via its ticket number
+* Click "Edit attendee details"
+* Change the ticket type appropriately
+* Add "upgraded" as a tag
+* Save the ticket
+* Find the Ticket Upgrade ticket again
+* Click "Void ticket", then "Confirm void", then "No" (in answer to the question about refunds)
