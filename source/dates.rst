@@ -13,3 +13,11 @@ Dates
   * August 9th - Announce schedule
   * August 13th - Committee meetup in Cardiff
   * September 15th-19th - Conference!
+
+
+Calendar
+--------
+
+.. raw:: html
+
+    <iframe src="https://calendar.google.com/calendar/embed?src=v71pdcqtp2l8fet7jnqp3ufg8k%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
