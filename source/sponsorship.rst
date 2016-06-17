@@ -76,6 +76,8 @@ The status field may be one of the following:
 TODO
   The company has not yet been contacted.
 Contacted
+  The company has been contacted, but no meaningful discussion has begun
+In progress
   The company has been contacted, and discussions are ongoing.
 No response
   The company has been contacted, and no meaningful response has been received.
