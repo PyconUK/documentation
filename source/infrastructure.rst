@@ -29,11 +29,18 @@ The PyCon UK infrastructure is comprised of the following services:
 * GitHub for code
 * Twilio for SMS delivery
 
+
 **Voting App**
 
 * Heroku for hosting
 * GitHub for code
 * Opbeat for Error tracking
+
+
+**Chat**
+
+* Slack for organisers
+* Slack for attendees
 
 
 This boils down to the following Vendors:
@@ -43,6 +50,7 @@ This boils down to the following Vendors:
 * Heroku
 * Opbeat
 * ReadTheDocs
+* Slack
 * Travis-CI
 * Twilio
 
@@ -98,3 +106,100 @@ Website Deployment
 The website can be built and deployed locally by running ``make deploy``. However this is not ideal when using a Pull Request workflow since it requires someone to have a working environment and thus TravisCI has been set up to deploy changes made to master.
 
 For more details on this see `the website readme <https://github.com/PyconUK/2016.pyconuk.org#deployment>`_.
+
+
+Slack
+-----
+
+Organisers
+``````````
+
+Slug: ``pyconuk-organisers``
+
+A standard slack team with no changes to settings.
+
+Admins are:
+
+* Charlie
+* George
+* Kristian
+* Peter
+
+
+Attendees
+`````````
+
+Thanks to `Baptiste Mispelon <https://twitter.com/bmispelon>`_ for his help with getting this slack set up.
+
+Slug: ``pyconuk-2016``
+
+Admins are:
+
+* Charlie
+* Cory
+* George
+* Kristian
+* Peter
+
+Settings
+~~~~~~~~
+
+* Team Signup Mode: **Invitation only**
+* Default Channels: **#announcements, #social**
+* Username Guidelines: **Default**
+* Name Display: **Display usernames**
+* Require @ for mentions: **No**
+* Do Not Disturb: **8PM -> 9AM**
+* Hide your team URL from external sites' logs: **Yes**
+* Calls: **No**
+* Team Icon: **Yellow Python (/media/img/yellow.png)**
+* Team Name & URL: **PyCon UK 2016 & pyconuk-2016**
+
+
+Permissions
+~~~~~~~~~~~
+
+* Messaging:
+
+  * *People who can use @channel and @here:* **Team Owners only**
+  * *Show a warning when using @channel or @everyone:* **Always**
+  * *People who can post to #general:* **Everyone**
+  * *People who can use @everyone:* **Team Owners only**
+
+* Invitations: **Don't allow everyone**
+* Channel Management:
+
+  * *People who can create private channels:* **Team Owners only**
+  * *People who can create channels:* **Team Owners only**
+  * *People who can archive channels:* **Team Owners only**
+  * *People who can remove team members from private channels:* **Team Owners only**
+  * *People who can remove team members from channels:* **Team Owners only**
+
+* Message Editing & Deletion:
+
+  * *Allow editing:* **Never**
+  * *People who can delete messages:* **Team Owner and Admins only**
+
+* Stats: **Team Owner and Admins only**
+* Custom Emoji & Loading Messages:
+
+  * *People who can manage custom emoji:* **Team Owner and Admins only**
+  * *People who can manage custom loading messages:* **Team Owner and Admins only**
+
+* Slackbot Responses: **Enabled**
+
+  * *People who can add Slackbot responses for your team:* **Team Owner and Admins only**
+
+* Public File Sharing: **Yes**
+* Gateways:
+
+  * *XMPP (SSL only):* **Yes**
+  * *IRC (SSL only):* **Yes**
+  * *IRC (no SSL):* **No**
+
+
+Invitations
+~~~~~~~~~~~
+New members can be invited by Owners or Admins `here <https://pyconuk-2016.slack.com/admin/invites>`_.
+
+Slack places limits on invitations when the accepted:sent ratio is low. See `here for more details <https://get.slack.help/hc/en-us/articles/201330256#invitation_limits>`_.
