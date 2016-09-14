@@ -9,7 +9,7 @@ The PyCon UK infrastructure is comprised of the following services:
 * GitHub for hosting
 * Travis-CI for code testing
 * DNSimple for DNS
-* 123 is the ``pyconuk.org`` domain registrar
+* 123-reg is the ``pyconuk.org`` domain registrar
 
 
 **Ticketing**
@@ -21,7 +21,7 @@ The PyCon UK infrastructure is comprised of the following services:
 
 * GitHub for Issues
 * GitHub for docs code
-* RTD for docs hosting
+* ReadTheDocs for docs hosting
 
 
 **SMS App**
@@ -39,10 +39,12 @@ The PyCon UK infrastructure is comprised of the following services:
 This boils down to the following Vendors:
 
 * 123-reg
+* DNSimple
 * GitHub
 * Heroku
 * Opbeat
 * ReadTheDocs
+* ti.to
 * Travis-CI
 * Twilio
 
