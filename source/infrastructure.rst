@@ -205,3 +205,27 @@ Invitations
 New members can be invited by Owners or Admins `here <https://pyconuk-2016.slack.com/admin/invites>`_.
 
 Slack places limits on invitations when the accepted:sent ratio is low. See `here for more details <https://get.slack.help/hc/en-us/articles/201330256#invitation_limits>`_.
+
+GitHub Permissions
+------------------
+
+Owners are:
+
+* Charlie
+* Cory
+* George
+* Kristian
+* Owen
+* Peter
+
+Two main teams:
+
+* Core: Basically everyone
+* pydata: PyData related folk
+
+
+Giving Push Access
+``````````````````
+Most of our repos are public so forking and PRing are simple, however on heavier usage repos (main website, ironcage, etc) it can be easier to just allow write access.
+
+Make sure the repo in question is added to the core team `here <https://github.com/orgs/PyconUK/teams/core/repositories>`_ and has ``Write`` permissions.
