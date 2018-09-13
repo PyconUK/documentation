@@ -23,6 +23,7 @@ PyCon UK 2016 Internaldocs
    feedback-2015
    company
    guidance-for-speakers
+   howto/index
 
 
 Indices and tables
