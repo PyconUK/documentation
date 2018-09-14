@@ -1,5 +1,5 @@
-Slack
-=====
+Set up the conference Slack
+===========================
 
 Organisers
 **********
@@ -99,7 +99,7 @@ Slack places limits on invitations when the accepted:sent ratio is low. See `her
 Channels
 --------
 
-At time of writing (12 September 2018, pyconuk-2018), we had the following
+At time of writing (13 September 2018, pyconuk-2018), we had the following
 public channels:
 
 *  announcements (admins only)
@@ -108,6 +108,7 @@ public channels:
 *  feedback
 *  general_chat
 *  helpdesk
+*  introductions
 *  recruitment
 *  social
 *  talks
@@ -121,3 +122,16 @@ And private channels:
 *  helpdesk-helpers
 *  sponsors
 
+The following channels are auto-joined when somebody signs up (configured in
+Settings > Default Channels):
+
+*  announcements
+*  helpdesk
+*  introductions
+*  social
+*  undefined
+
+.. note:: We have the metadata in Ironcage to detect if somebody is a
+          contributor, sponsor, etc.  It would be a nice future enhancement
+          to set up a way to auto-join people to the appropriate extra
+          channels.
