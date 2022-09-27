@@ -1,12 +1,13 @@
 Schedule
 ========
 
-We've committed to the following things, which need to find their way onto the
-schedule:
+TDB
 
-- Django Girls workshop (all day Thursday)
-- Teachers' day (all day Friday)
-- Children's day (all day Saturday)
-- A welcome session for first-time attendees (Friday morning)
-- The PyCon UK Society's AGM
-- Code4Research track (Sat, Sun and sprints on Monday)
+Pretalix
+--------
+
+Our CfP process and schedule is managed through `Pretalix <https://pretalx.com/p/about/>`_
+
+The management page for this year's event is `here <https://pretalx.com/orga/event/pyconuk-2023/>`_
+
+

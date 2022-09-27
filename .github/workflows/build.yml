@@ -1,0 +1,32 @@
+name: Build Documentation
+
+on:
+  pull_request:
+    branches:
+    - main
+  push:
+    branches:
+    - main
+
+jobs:
+  docs:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: 'actions/checkout@v3'
+
+    - uses: 'actions/setup-python@v4'
+      with:
+        python-version: '3.10'
+
+    - run: |
+        set -e
+        python --version
+        python -m pip install --upgrade pip tox
+      name: Setup Environment
+
+    - id: build
+      run: |
+        tox -e build
+      name: Run Tox
+
